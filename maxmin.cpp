@@ -27,5 +27,5 @@ cout<<"the maximum limit of unsigned short data type =\t" << USHRT_MAX << "\n";
 
 
 
-
+return 0;
 }
