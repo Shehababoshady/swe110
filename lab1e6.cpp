@@ -13,4 +13,4 @@ int main()
     cin >> y;
     cout << "the sum of the 2 integers is :" << x + y << "\n";
     return 0;
-}
+} 

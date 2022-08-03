@@ -11,4 +11,4 @@ int main()
     double area;
     area = 2 * 3.14 * pow(r, 2);
     cout << "area of circle=" << area << "\n";
-}
+} 

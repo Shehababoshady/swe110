@@ -8,4 +8,4 @@ using namespace std;
 int main()
 {
     cout << "2+4-5*8+(15/5)=" << 2 + 4 - 5 * 8 + (15 / 5) << "\n";
-}
+} 

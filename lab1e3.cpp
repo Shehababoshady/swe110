@@ -16,4 +16,4 @@ int main()
     cin >> height;
     BMI = weight / pow(height, 2);
     cout << "BMI=weight / (height)2 =" << BMI << "\n";
-}
+} 
